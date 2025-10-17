@@ -1,3 +1,4 @@
+
 document.addEventListener('DOMContentLoaded', () => {
     /**
      * Elements from the DOM
